@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiaxi</h1>
 <h3 align="center">A passionate learner</h3>
 
-- 🌱 I’m currently learning **Multimodal Navigation, Embodied-AI and associate infra engineering.**
+- 🌱 I’m currently learning **Multimodal Perception, Learning-Based Robotics and associate infra engineering.**
 
 - 📝 I regularly write articles on [https://melohuang7.github.io/](https://melohuang7.github.io/)
 
