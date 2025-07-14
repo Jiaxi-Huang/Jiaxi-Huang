@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jiaxi</h1>
-<h3 align="center">A passionate learner</h3>
+<h1 align="center">Hi there!👋, I'm Jiaxi</h1>
 
 - 🌱 I’m currently learning **Multimodal Perception, Learning-Based Robotics and associate infra engineering.**
 
