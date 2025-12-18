@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!👋, I'm Jiaxi</h1>
 
-- 🌱 I’m currently learning **Multimodal Perception, Learning-Based Robotics and associate infra engineering.**
+- 🌱 I’m currently in my final-year undergraduate study at Sichuan University and interested in  **Multimodal-Perception, Reinforcement-Learning, Robot-Learning and LLM-Infra.**
 
 - 📝 I regularly write articles on [https://melohuang7.github.io/](https://melohuang7.github.io/)
 
